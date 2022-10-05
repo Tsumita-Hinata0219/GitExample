@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello Github!\n";
+    std::cout << "変更しました！\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
